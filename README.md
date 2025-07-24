@@ -1,4 +1,4 @@
-
+This research paper is accepted for presentation at ISBM 2025 and publication to the Springer SIST series.
 ## Overview
 This project uses  Kafka, Flink, RabbitMQ, Spark and Hadoop to prioritize and process disaster data in real time.
 
